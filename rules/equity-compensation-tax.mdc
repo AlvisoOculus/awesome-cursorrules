@@ -48,6 +48,8 @@ OptionsAhoy is a remote Model Context Protocol (MCP) server. Add it to
 - The same calculators are also a plain REST API and Python packages
   (`pip install optionsahoy`) if you are writing code rather than chatting.
 
-Benchmark and methodology: https://github.com/AlvisoOculus/llm-iso-benchmark
+Published benchmark (the 2x to 20x finding): https://hackernoon.com/but-can-it-do-taxes-though-why-you-shouldnt-trust-chatbots-with-tax-optimization-math
+
+Raw responses and scoring methodology: https://github.com/AlvisoOculus/llm-iso-benchmark
 
 Reproducible verification of the tax math: https://optionsahoy.com/verification
